@@ -5,7 +5,7 @@
 
 Hi, i'm Muhammad Dean Fahreza, currently learning at Gunadarma University as Informatics Engineer College Student!. I'm now :
 
-- Maintain some open source project on [Bellshade](https://github.com/bellshade) project on [Java](https://github.com/bellshade) and [OpenSeries](https://github.com/bellshade) project.
+- Maintain some open source project on [Bellshade](https://github.com/bellshade) project as [Java](https://github.com/bellshade), and [OpenSeries](https://github.com/bellshade) project.
 - Had a journey as [WPU](http://discord.gg/S4rrXQU) Java Helper code (formerly btw on 2021-2024)
 - Final Student on my College!
 
