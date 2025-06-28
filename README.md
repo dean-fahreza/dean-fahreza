@@ -80,3 +80,16 @@ Currently i'm life-long learner about new code. </p>
         width="40" height="40">
     </a>
 </p>
+
+<p align="left">
+    <a href="http://microsoft.com/en-us/windows" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows"
+        width="40" height="40">
+    </a>
+    <a href="http://linux.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg#L1" 
+        alt="Linux" width="40" height="40">
+    </a>
+</p>
+
+<br><br>
