@@ -93,3 +93,11 @@ Currently i'm life-long learner about new code. </p>
 </p>
 
 <br><br>
+
+<p align="left">
+    I'm now open to work, if you are interest with what I have learned, you can contact me at: <br />
+</p>
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-dean-fahreza-00ba9322b/)
+- [Discord](https://discordapp.com/users/409326558021550084/)
+- [E-Mail](mailto:muhammaddean27@gmail.com)
