@@ -101,3 +101,8 @@ Currently i'm life-long learner about new code. </p>
 - [LinkedIn](https://www.linkedin.com/in/muhammad-dean-fahreza-00ba9322b/)
 - [Discord](https://discordapp.com/users/409326558021550084/)
 - [E-Mail](mailto:muhammaddean27@gmail.com)
+
+<!-- Commit di atas terlebih dulu, baru di bawah -->
+<p align="left">
+    If you want to see my profile more, you can visit my portofolio <a href="https://linktr.ee/deanfahreza">here</a>
+</p>
