@@ -104,5 +104,5 @@ I'm also a life-long learner about new technologies. </p>
 
 <!-- Commit di atas terlebih dulu, baru di bawah -->
 <p align="left">
-    If you want to see my profile more, you can visit my portofolio <a href="https://linktr.ee/deanfahreza">here</a>
+    If you want to see my profile more, you can visit my portfolio <a href="https://linktr.ee/deanfahreza">here</a>
 </p>
