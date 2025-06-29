@@ -2,10 +2,10 @@
     Hello!☺️
 </h1>
 
-<p>I'm Muhammad Dean Fahreza, but my nickname is "Dean"😁. Currently i'm fresh-grated Informatics Student. 
-Currently i'm life-long learner about new code. </p>
+<p>I'm Muhammad Dean Fahreza, but my nickname is "Dean"😁. I'm fresh-grated Informatics Student. 
+I'm also a life-long learner about new technologies. </p>
 
-<h3>Tools what i'm learned:</h3>
+<h3>Technologies what i'm learned so far:</h3>
 
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
