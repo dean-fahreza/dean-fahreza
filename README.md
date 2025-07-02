@@ -24,6 +24,10 @@ I'm also a life-long learner about new technologies. </p>
         <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tensorflow/tensorflow-original.svg#L2"
         alt="TensorFlow" width="40" height="40">
     </a>
+    <a href="http://scipy.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy"
+        width="40" height="40">
+    </a>
     <a href="http://https://keras.io/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/keras/keras-original.svg#L1"
          alt="Keras" width="40" height="40">
