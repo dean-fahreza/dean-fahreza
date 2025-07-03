@@ -71,13 +71,13 @@ I'm also a life-long learner about new technologies. </p>
         <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg#L1"
          alt="VS Code" width="40" height="40">
     </a>
-    <a href="http://vscodium.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/VSCodium/vscodium/blob/master/icons/stable/codium_cnl.svg" alt=" VS Codium"
-        width="40" height="40">
-    </a>
     <a href="http://jupyter.org" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" 
         alt="Jupyter" width="40" height="40">
+    </a>
+    <a href="http://vscodium.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/VSCodium/vscodium/blob/master/icons/stable/codium_cnl.svg" alt=" VS Codium"
+        width="40" height="40">
     </a>
     <a href="http://neovim.io" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" alt="Neovim"
